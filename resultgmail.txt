@@ -1,0 +1,149 @@
+username=joviandrono920192xxz,password=sharapova606,firstname=joviandro,lastname=marbun,phone=82221835938,fail=1,error=Message: Unable to locate element: [id="firstName"]
+,took=0.014832474000000012
+username=joviandrono920192xxz,password=sharapova606,firstname=joviandro,lastname=marbun,phone=82221835938,fail=1,error=Message: Unable to locate element: [id="firstName"]
+,took=0.011523711999999992|
+username=joviandrono920192xxzy,password=sharapova606,firstname=joviandro,lastname=marbun,phone=83891552426,fail=1,error=Message: Unable to locate element: [id="firstName"]
+,took=0.011297028999999986|
+username=joviandrono920192xxzy,password=sharapova606,firstname=joviandro,lastname=marbun,phone=83891552426,fail=1,error=Message: Unable to locate element: [id="code"]
+,took=0.038182218000000004|
+username=joviandrono920192xxzy,password=sharapova606,firstname=joviandro,lastname=marbun,phone=81909607603,fail=1,error=Message: Unable to locate element: [id="code"]
+,took=0.038415243|
+username=joviandrono920192xxzy,password=sharapova606,firstname=joviandro,lastname=marbun,phone=85882357680,fail=1,error=Message: Unable to locate element: [id="code"]
+,took=0.04734804699999999|
+username=test,password=test,firstname=test,lastname=test,phone=test,fail=1,error=Message: Unable to locate element: [id="firstName"]
+,took=0.013115992000000007|
+username=test,password=test,firstname=test,lastname=test,phone=test,fail=1,error=Message: Unable to locate element: [id="firstName"]
+,took=0.015590956999999989|
+username=test,password=test,firstname=test,lastname=test,phone=test,fail=1,error=Message: Unable to locate element: [id="firstName"]
+,took=0.013613987999999994|
+username=test,password=test,firstname=test,lastname=test,phone=test,fail=1,error=Message: Unable to locate element: [id="firstName"]
+,took=0.013338907999999997|
+username=test,password=test,firstname=test,lastname=test,phone=test,fail=1,error=can only concatenate str (not "function") to str,took=0.013112247000000007|
+username=test,password=test,firstname=test,lastname=test,phone=test,fail=1,error=can only concatenate str (not "float") to str,took=0.012961788000000002|
+username=test,password=test,firstname=test,lastname=test,phone=test,fail=1,error=can only concatenate str (not "float") to str,took=0.015851567999999996|
+username=test,password=test,firstname=test,lastname=test,phone=test,fail=1,error=Message: Unable to locate element: [id="firstName"]
+,took=0.014763087000000008|
+username=test,password=test,firstname=test,lastname=test,phone=test,fail=1,error=Message: Unable to locate element: [id="firstName"]
+,took=0.012850685|
+username=androjovixx9832,password=androjovi9000,firstname=joviandro,lastname=andro,phone=89612143467,fail=1,error=Message: Unable to locate element: [id="code"]
+,took=0.04081058000000001|
+username=androjovixx9832,password=androjovi9000,firstname=joviandro,lastname=andro,phone=89612143467,fail=1,error=Message: Unable to locate element: [id="code"]
+,took=0.04498977299999998|
+username=androjovixx9832,password=androjovi9000,firstname=joviandro,lastname=andro,phone=89612143467,fail=1,error=Message: Unable to locate element: [id="code"]
+,took=0.042530551999999985|
+username=androjovixx9832,password=androjovi9000,firstname=joviandro,lastname=andro,phone=89612143467username=androjovixx9832,password=androjovi9000,firstname=joviandro,lastname=andro,phone=89612143467username=androjovixx98323,password=androjovi9000,firstname=joviandro,lastname=andro,phone=89612124808username=androjovixx98323,password=androjovi9000,firstname=joviandro,lastname=andro,phone=82328225679username=androjovixx98323,password=androjovi9000,firstname=joviandro,lastname=andro,phone=89612124808username=androjovixx98323,password=androjovi9000,firstname=joviandro,lastname=andro,phone=89612124808username=androjovixx98323,password=androjovi9000,firstname=joviandro,lastname=andro,phone=895337306703username=androjovixx98323,password=androjovi9000,firstname=joviandro,lastname=andro,phone=83875183146username=androjovixx98323,password=androjovi9000,firstname=joviandro,lastname=andro,phone=83875183146username=androjovixx98323,password=androjovi9000,firstname=joviandro,lastname=andro,phone=83875183146username=androjovixx98323,password=androjovi9000,firstname=joviandro,lastname=andro,phone=83875183146,fail=1,error=Message: session not created: This version of ChromeDriver only supports Chrome version 88
+Current browser version is 77.0.3865.75 with binary path /usr/bin/google-chrome
+,took=0.02775034899999998|
+username=androjovixx98323,password=androjovi9000,firstname=joviandro,lastname=andro,phone=83875183146,fail=1,error='WebDriver' object has no attribute 'set_preference',took=0.012292795000000009|
+username=androjovixx98323,password=androjovi9000,firstname=joviandro,lastname=andro,phone=83875183146username=androjovixx98323,password=androjovi9000,firstname=joviandro,lastname=andro,phone=83875183146username=androjovixx98323,password=androjovi9000,firstname=joviandro,lastname=andro,phone=83875183146,fail=1,error=Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=88.0.4324.96)
+,took=0.013369866999999994|
+username=androjovixx98323,password=androjovi9000,firstname=joviandro,lastname=andro,phone=895337306703,fail=1,error=Message: element not interactable
+  (Session info: chrome=88.0.4324.96)
+,took=0.04100182299999999|
+username=androjovixx98323,password=androjovi9000,firstname=joviandro,lastname=andro,phone=895337306703username=androjovixx98323,password=androjovi9000,firstname=joviandro,lastname=andro,phone=89612143467username=androjovixx98323,password=androjovi9000,firstname=joviandro,lastname=andro,phone=89612124808username=androjovixx98323,password=androjovi9000,firstname=joviandro,lastname=andro,phone=89612124808,fail=1,error=Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+,took=0.018276042999999992|
+username=androjovixx98323,password=androjovi9000,firstname=joviandro,lastname=andro,phone=89612124808username=androjovixx98323,password=androjovi9000,firstname=joviandro,lastname=andro,phone=89612124808username=powq,password=androjovi9000,firstname=test,lastname=heow,phone=89612124808,fail=1,error=Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="phoneNumberId"]"}
+  (Session info: chrome=88.0.4324.96)
+,took=0.035004892999999995|
+username=powq,password=androjovi9000,firstname=test,lastname=heow,phone=89612124808username=powq,password=androjovi9000,firstname=test,lastname=heow,phone=89612124808,fail=1,error=Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="phoneNumberId"]"}
+  (Session info: chrome=88.0.4324.96)
+,took=0.030396509000000016|
+username=powq,password=androjovi9000,firstname=test,lastname=heow,phone=89612124808username=powq,password=androjovi9000,firstname=test,lastname=heow,phone=89612124808username=powq,password=androjovi9000,firstname=test,lastname=heow,phone=89612124808,fail=1,error=Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+,took=0.041432801000000005|
+username=powq,password=androjovi9000,firstname=test,lastname=heow,phone=89612124808,fail=1,error=Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+,took=0.031926247000000005|
+username=powq,password=androjovi9000,firstname=test,lastname=heow,phone=89612124808,fail=1,error=Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+,took=0.030064597|
+username=powq,password=androjovi9000,firstname=test,lastname=heow,phone=89612124808,fail=1,error=Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+,took=0.036588854000000004|
+username=mitraWAW003,password=androjovi9000,firstname=APARTEMEN SEMANAN,lastname=INDAH,phone=89612124808username=mitrawaw003,password=pwdxwaw003,firstname=APARTEMEN SEMANAN,lastname=INDAH,phone=83875183146,fail=1,error=Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="phoneNumberId"]"}
+  (Session info: chrome=88.0.4324.96)
+,took=0.03132834500000001|
+username=mitrawaw003,password=pwdxwaw003,firstname=APARTEMEN SEMANAN,lastname=INDAH,phone=83875183146,fail=0error=,took=0.07428253800000001|
+username=mitrawaw004,password=pwdxwaw004,firstname=APT,lastname=CITYPARK,phone=83875183146,fail=1,error=Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+,took=0.03453323|
+username=mitrawaw004,password=pwdxwaw004,firstname=APT,lastname=CITYPARK,phone=83875183146,fail=1,error=Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+,took=0.03633186000000001|
+username=mitrawaw004,password=pwdxwaw004,firstname=APT,lastname=CITYPARK,phone=83875183146,fail=1,error=Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+,took=0.04257249599999999|
+username=mitrawaw004,password=pwdxwaw004,firstname=APT,lastname=CITYPARK,phone=83875183146username=mitrawaw004,password=pwdxwaw004,firstname=APT,lastname=CITYPARK,phone=83875183146,fail=1,error=Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+,took=0.04889649300000001|
+username=mitrawaw004,password=pwdxwaw004,firstname=APT,lastname=CITYPARK,phone=83875183146,fail=1,error=Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="code"]"}
+  (Session info: headless chrome=88.0.4324.96)
+,took=0.043749637999999993|
+username=androjovixx98329,password=androjovi9000,firstname=joviandro,lastname=andro,phone=87815208899username=androjovixx98329,password=androjovi9000,firstname=joviandro,lastname=andro,phone=87815208899username=androjovixx98329,password=androjovi9000,firstname=joviandro,lastname=andro,phone=87815208899,fail=1,error=Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="phoneNumberId"]"}
+  (Session info: chrome=88.0.4324.96)
+,took=0.035141749000000014|
+username=mitrawaw004,password=pwdxwaw004,firstname=APT,lastname=CITYPARK,phone=83161222950,fail=1,error='NoneType' object is not subscriptable,took=0.05002708900000001|
+username=mitrawaw004,password=pwdxwaw004,firstname=APT,lastname=CITYPARK,phone=83161222950,fail=1,error=Unread result found,took=0.04610159|
+username=mitrawaw005,password=pwdxwaw005,firstname=PEDONGKELAN,lastname=KAPUK,phone=83161222950,fail=1,error='NoneType' object is not subscriptable,took=0.054204474|
+username=mitrawaw005,password=pwdxwaw005,firstname=PEDONGKELAN,lastname=KAPUK,phone=83161222950,fail=1,error=Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+,took=0.023393839|
+username=mitrawaw005,password=pwdxwaw005,firstname=PEDONGKELAN,lastname=KAPUK,phone=83161222950,fail=1,error=Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+,took=0.028005738000000002|
+username=mitrawaw005,password=pwdxwaw005,firstname=PEDONGKELAN,lastname=KAPUK,phone=83161222950,fail=1,error=Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+,took=0.025592704999999993|
+username=mitrawaw005,password=pwdxwaw005,firstname=PEDONGKELAN,lastname=KAPUK,phone=83161222950,fail=1,error='NoneType' object is not subscriptable,took=0.05022109799999999|
+username=mitrawaw006,password=pwdxwaw006,firstname=SEDAYU,lastname=SQUARE,phone=83172870760,fail=0,error=,took=0.087120379|
+username=mitrawaw007,password=pwdxwaw007,firstname=CBD CITY,lastname=PARK,phone=83800796292,fail=0,error=,took=0.08784377200000001|
+username=mitrawaw008,password=pwdxwaw008,firstname=CHRISANT DURI,lastname=KOSAMBI,phone=83166825839username=mitrawaw008,password=pwdxwaw008,firstname=CHRISANT DURI,lastname=KOSAMBI,phone=83166825839username=mitrawaw008,password=pwdxwaw008,firstname=CHRISANT DURI,lastname=KOSAMBI,phone=83166825839username=mitrawaw008,password=pwdxwaw008,firstname=CHRISANT DURI,lastname=KOSAMBI,phone=83166825839username=mitrawaw008,password=pwdxwaw008,firstname=CHRISANT DURI,lastname=KOSAMBI,phone=83166825839,fail=0,error=,took=0.07680384399999998|
+username=mitrawaw009,password=pwdxwaw009,firstname=RUKO,lastname=MALIBU,phone=83166825839,fail=0,error=,took=0.07207614200000001|
+username=mitrawaw010,password=pwdxwaw010,firstname=RUKO,lastname=PELANGI,phone=83166825839username=mitrawaw010,password=pwdxwaw010,firstname=RUKO,lastname=PELANGI,phone=83179281883username=mitrawaw010,password=pwdxwaw010,firstname=RUKO,lastname=PELANGI,phone=83193536887username=mitrawaw010,password=pwdxwaw010,firstname=RUKO,lastname=PELANGI,phone=83193536887username=mitrawaw010,password=pwdxwaw010,firstname=RUKO,lastname=PELANGI,phone=83193536887,fail=1,error=Message: Unable to locate element: [id="month"]
+,took=0.04779765|
+username=mitrawaw1011,password=pwdxwaw1011,firstname=RAYA DURI,lastname=KOSAMBI,phone=83193536887username=mitrawaw1011,password=pwdxwaw1011,firstname=RAYA DURI,lastname=KOSAMBI,phone=83179281883,fail=0,error=,took=0.081851069|
+username=mitrawaw1012,password=pwdxwaw1012,firstname=UTAMA,lastname=RAYA,phone=83179281883username=mitrawaw1012,password=pwdxwaw1012,firstname=UTAMA,lastname=RAYA,phone=83130880785,fail=0,error=,took=0.07753000500000001|
+username=mitrawaw1013,password=pwdxwaw1013,firstname=TIPAR,lastname=CAKUNG,phone=83130880785username=mitrawaw1014,password=pwdxwaw1014,firstname=MENARA,lastname=LATUMENTEN,phone=83130880785,fail=0,error=,took=0.08048725600000001|
+username=mitrawaw1015,password=pwdxwaw1015,firstname=KOMPLEK,lastname=SUKAPURA,phone=83130880785username=mitrawaw1015,password=pwdxwaw1015,firstname=KOMPLEK,lastname=SUKAPURA,phone=83130880785username=mitrawaw1015,password=pwdxwaw1015,firstname=KOMPLEK,lastname=SUKAPURA,phone=83163755272,fail=0,error=,took=0.07631268399999999|
+username=mitrawaw1016,password=pwdxwaw1016,firstname=RUKO MUTIARA TAMAN PALM,lastname=RAYA,phone=83163755272username=mitrawaw1016,password=pwdxwaw1016,firstname=RUKO MUTIARA TAMAN PALM,lastname=RAYA,phone=83801135440username=mitrawaw1017,password=pwdxwaw1017,firstname=RUKO KOSAMBI,lastname=BARU,phone=83801135440username=mitrawaw1017,password=pwdxwaw1017,firstname=RUKO KOSAMBI,lastname=BARU,phone=83801135440username=mitrawaw1017,password=pwdxwaw1017,firstname=RUKO KOSAMBI,lastname=BARU,phone=83801135440username=mitrawaw1017,password=pwdxwaw1017,firstname=RUKO KOSAMBI,lastname=BARU,phone=83801135440username=mitrawaw1017,password=pwdxwaw1017,firstname=RUKO KOSAMBI,lastname=BARU,phone=83801135446username=mitrawaw1017,password=pwdxwaw1017,firstname=RUKO KOSAMBI,lastname=BARU,phone=83801135446username=mitrawaw1017,password=pwdxwaw1017,firstname=RUKO KOSAMBI,lastname=BARU,phone=83178207223username=mitrawaw1017,password=pwdxwaw1017,firstname=RUKO KOSAMBI,lastname=BARU,phone=83178207223,fail=1,error=Message: Failed to decode response from marionette
+,took=0.038441607000000017|
+username=mitrawaw1017,password=pwdxwaw1017,firstname=RUKO KOSAMBI,lastname=BARU,phone=83178207223username=mitrawaw1017,password=pwdxwaw1017,firstname=RUKO KOSAMBI,lastname=BARU,phone=83178207223username=mitrawaw1017,password=pwdxwaw1017,firstname=RUKO KOSAMBI,lastname=BARU,phone=83164686970username=mitrawaw1017,password=pwdxwaw1017,firstname=RUKO KOSAMBI,lastname=BARU,phone=83170534594username=mitrawaw1017,password=pwdxwaw1017,firstname=RUKO KOSAMBI,lastname=BARU,phone=83170534594,fail=1,error=Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+,took=0.042997198000000014|
+username=mitrawaw1017,password=pwdxwaw1017,firstname=RUKO KOSAMBI,lastname=BARU,phone=83170534594username=mitrawaw1017,password=pwdxwaw1017,firstname=RUKO KOSAMBI,lastname=BARU,phone=83170534594username=mitrawaw1017,password=pwdxwaw1017,firstname=RUKO KOSAMBI,lastname=BARU,phone=83809284505username=mitrawaw1017,password=pwdxwaw1017,firstname=RUKO KOSAMBI,lastname=BARU,phone=83809284505,fail=1,error=Message: no such window: window was already closed
+  (Session info: chrome=87.0.4280.141)
+  (Driver info: operadriver=87.0.4280.67 (0e5d92df40086cf0050c00f87b11da1b14580930-refs/branch-heads/4280@{#1441}),platform=Linux 4.15.0-132-generic x86_64)
+,took=0.017759308000000015|
+username=mitrawaw1017,password=pwdxwaw1017,firstname=RUKO KOSAMBI,lastname=BARU,phone=83809284505,fail=1,error=Message: no such element: Unable to locate element: {"method":"id","selector":"phoneNumberId"}
+  (Session info: chrome=87.0.4280.141)
+  (Driver info: operadriver=87.0.4280.67 (0e5d92df40086cf0050c00f87b11da1b14580930-refs/branch-heads/4280@{#1441}),platform=Linux 4.15.0-132-generic x86_64)
+,took=0.03440703099999998|
+username=mitrawaw1017,password=pwdxwaw1017,firstname=RUKO KOSAMBI,lastname=BARU,phone=83809284505,fail=1,error=module 'selenium.webdriver' has no attribute 'OperaOptions',took=0.0013103730000000036|
+username=mitrawaw1017,password=pwdxwaw1017,firstname=RUKO KOSAMBI,lastname=BARU,phone=83809284505,fail=1,error=Message: Desired Capabilities must be a dictionary
+,took=0.018296469999999995|
+username=mitrawaw1017,password=pwdxwaw1017,firstname=RUKO KOSAMBI,lastname=BARU,phone=83809284505,fail=1,error=Message: Desired Capabilities must be a dictionary
+,took=0.016220147000000018|
+username=mitrawaw1017,password=pwdxwaw1017,firstname=RUKO KOSAMBI,lastname=BARU,phone=83809284505,fail=1,error=name 'opera_options' is not defined,took=0.0012972390000000056|
+username=mitrawaw1017,password=pwdxwaw1017,firstname=RUKO KOSAMBI,lastname=BARU,phone=83809284505username=mitrawaw1017,password=pwdxwaw1017,firstname=RUKO KOSAMBI,lastname=BARU,phone=83178207266,fail=1,error=Message: chrome not reachable
+  (Session info: chrome=87.0.4280.141)
+  (Driver info: operadriver=87.0.4280.67 (0e5d92df40086cf0050c00f87b11da1b14580930-refs/branch-heads/4280@{#1441}),platform=Linux 4.15.0-132-generic x86_64)
+,took=0.04042843899999998|
+username=mitrawaw1017,password=pwdxwaw1017,firstname=RUKO KOSAMBI,lastname=BARU,phone=83178207266,fail=1,error=Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="phoneNumberId"]"}
+  (Session info: chrome=88.0.4324.96)
+,took=0.034621663|
+username=mitrawaw1019,password=pwdxwaw1019,firstname=KEBON JERUK,lastname=3,phone=83178207266username=mitrawaw1019,password=pwdxwaw1019,firstname=KEBON JERUK,lastname=3,phone=83178207266,fail=1,error=Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="phoneNumberId"]"}
+  (Session info: chrome=88.0.4324.96)
+,took=0.043517078999999986|
+username=mitrawaw1025,password=pwdxwaw1025,firstname=KAPUK,lastname=RAYA,phone=83178207266username=androjovixx9832,password=androjovi9000,firstname=joviandro,lastname=andro,phone=89612143467,fail=1,error=Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="phoneNumberId"]"}
+  (Session info: chrome=88.0.4324.96)
+,took=0.03673849699999998|
+username=androjovixx9832po,password=androjovi9000,firstname=joviandro,lastname=andro,phone=89612143467,fail=1,error=Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+,took=0.040692319999999976|
+username=androjovixx9832po,password=androjovi9000,firstname=joviandro,lastname=andro,phone=89612143467,fail=1,error=Message: chrome not reachable
+  (Session info: chrome=88.0.4324.96)
+,took=0.04006005699999998|
+username=mitrawaw1793,password=pwdxwaw1793,firstname=RUKO,lastname=NORTH,phone=83801135726username=mitrawaw1790,password=pwdxwaw1790,firstname=PADASUKA,lastname=PASIRLAYUNG,phone=83800797415username=mitrawaw1790,password=pwdxwaw1790,firstname=PADASUKA,lastname=PASIRLAYUNG,phone=83800797415
